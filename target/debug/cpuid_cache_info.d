@@ -1,1 +1,0 @@
-C:\Users\user1\Documents\GitHub\Rust_cpuid_cache_info\cpuid_cache_info\target\debug\cpuid_cache_info.exe: C:\Users\user1\Documents\GitHub\Rust_cpuid_cache_info\cpuid_cache_info\src\lib.rs C:\Users\user1\Documents\GitHub\Rust_cpuid_cache_info\cpuid_cache_info\src\main.rs
