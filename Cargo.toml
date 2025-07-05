@@ -1,0 +1,8 @@
+[package]
+name = "cpuid_cache_info"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+raw-cpuid = "10"
+num_cpus = "1"
